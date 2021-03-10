@@ -1,6 +1,5 @@
 # What does this piece of code do?
-# Answer: 
-#To  randomly get a integer smaller than 50
+# Answer: To  randomly get a integer smaller than 50
 # Import libraries
 # randint allows drawing a random number, 
 # e.g. randint(1,5) draws a number between 1 and 5
