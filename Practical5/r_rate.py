@@ -2,8 +2,8 @@
 n=84
 #one day a student was infected with T virus
 O=1
-#the R rate of T virus is 1.2
-r=1.2
+#the R rate of T virus is 1.1
+r=1.1
 for i in range(1,5):
   O=O*r+O
 print "number of individuals infected after 5 generations is"
