@@ -1,0 +1,3 @@
+Feedback for week4 task: Just all right
+Feedback for week5 task: I add some pseudocode. And for the task of R rate, the feedback just said that the formula is wrong. I think the problem might be that decimals may appear during the infection. So maybe using math.floor() can solve this problem.
+Feedback for week6 task: For the first problem, using  f= open( 'E:\\study\\Semester2\\ELSE\\IBI\\Practical6\\...') to ensure that input table can be changed. For the second problem. Using plt.title('') to add the title 
